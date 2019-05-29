@@ -3,6 +3,7 @@ Rurple
 Pink
 Blue
 Yellow
+indio
 Orange
 Red
 Green
